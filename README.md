@@ -8,3 +8,10 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 gitGraph
  commit
 ```
+
+## Fluxo de Trabalho com Git
+
+Curso de aperfeiçoamento de git utilizando branches.
+
+Local: IFMT
+Horario: 08:00
